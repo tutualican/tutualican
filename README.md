@@ -15,7 +15,8 @@ Even though I don’t currently have the coding skills to work on my own project
 - Turkish (It’s my native language. :) )
 - English (We don’t always get along perfectly, but I’m not giving up.)
 - German (I’m extremely curious and interested in it.)
-- 
+- Coming Soon...
+  
 ## 📫 Contact Me
 
 - [LinkedIn](Pending verification.)
