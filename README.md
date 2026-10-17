@@ -1,21 +1,22 @@
-# Merhaba, ben Alican 👋
+# Hi, I’m Alican 👋
 
-Yazılıma ilgi duyan, kısıtlamaları aşmaya çalışan birisiyim.
+I’m someone who’s interested in software and strives to overcome limitations.
 
-Şu anda kendi projelerimi yapabilecek kodlama bilgim olmasa bile, yapay zekanın da yardımını alarak ilgi çekici olmasını istediğim projeler yapmak istiyorum.
+Even though I don’t currently have the coding skills to work on my own projects, I want to create projects that I find interesting—with the help of artificial intelligence.
 
-## 🧑‍💻 İlgimi çeken kodlama dilleri
+## 🧑‍💻 Programming languages that interest me
 
 - Python
 - JavaScript
 - HTML
 
-## 🗣️ Konuşabildiğim diller
+## 🗣️ Languages I Speak
 
-- Türkçe (Ana dilim olur kendisi. :) )
-- İngilizce (Aramız biraz limoni ama pes etmek yok.)
-- Almanca (Aşırı merakım ve ilgim var.)
-## 📫 Bana ulaşın
+- Turkish (It’s my native language. :) )
+- English (We don’t always get along perfectly, but I’m not giving up.)
+- German (I’m extremely curious and interested in it.)
+- 
+## 📫 Contact Me
 
-- [LinkedIn](Doğrulama aşamasında.)
-- E-posta: tutualican@gmail.com
+- [LinkedIn](Pending verification.)
+- Email: tutualican@gmail.com
